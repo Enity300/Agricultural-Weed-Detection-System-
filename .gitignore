@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ECHO is off.
+# Jupyter Notebook
+.ipynb_checkpoints
+ECHO is off.
+# Model weights and large files
+*.pt
+*.pth
+*.weights
+*.onnx
+ECHO is off.
+# Dataset
+prepared_nir_coco/
+*.zip
+ECHO is off.
+# Training outputs
+sugar-beets-detection/
+runs/
+results_*/
+predictions/
+ECHO is off.
+# Temporary files
+*.log
+*.csv
+*.png
+*.jpg
+dataset.yaml
