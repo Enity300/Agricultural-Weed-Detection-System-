@@ -9,6 +9,7 @@ venv/
 ECHO is off.
 # Jupyter Notebook
 .ipynb_checkpoints
+C:\Users\vchau\OneDrive\Desktop\CV_assignment\copy_before_kaggle.ipynb
 ECHO is off.
 # Model weights and large files
 *.pt
