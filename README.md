@@ -1,6 +1,4 @@
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 # Agricultural Weed Detection using Deep Learning
 
 A comprehensive computer vision system for precision agriculture that compares CNN-based (YOLOv8) and Transformer-based (RT-DETR) object detection models for automated weed and sugar beet classification in NIR imagery.
